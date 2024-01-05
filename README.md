@@ -1,1 +1,1 @@
-#This i Hangman game program in python.
+#This is Hangman game program in python.
